@@ -9,7 +9,7 @@ function Homepage() {
                 <h1>MedHub </h1>
             </nav>
             <div className='homepage-container'>
-                <img src="https://res.cloudinary.com/dkr75ykb4/image/upload/v1667657020/medhub/hero_ichj4k.png" alt="heroimage" />
+                <img src="https://res.cloudinary.com/dkr75ykb4/image/upload/v1667666080/medhub/1667665971806-01_mrk8ce.jpg" alt="heroimage" />
                 <div className="text-container">
                     <h2>MedHub Welcomes You</h2>
                     <p>A place to assist your Medical storage and help  you to take care the needs and requirement for your customers</p>
